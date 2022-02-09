@@ -1,0 +1,6 @@
+Credentials cache: API:00F79D11-E21C-47F2-8D2B-E8FA481FFDB6
+        Principal: anifanto@42ABUDHABI.AE
+
+  Issued                Expires               Principal
+May 17 08:29:12 2021  May 17 18:29:12 2021  krbtgt/42ABUDHABI.AE@42ABUDHABI.AE
+May 17 08:29:13 2021  May 17 18:29:12 2021  HTTP/student-storage.42abudhabi.ae@42ABUDHABI.AE
